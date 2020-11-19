@@ -1,4 +1,4 @@
-<p align='center><h1>Movies InShot</h1></p>
+<h1>Movies InShot</h1>
 
 <img align='center' src='https://raw.githubusercontent.com/pranjals149/acevent/dc290bd44058661164ecd25c70216fe629e8da8d/movies-inshot/logo.svg' height=400 width=400 />
 
