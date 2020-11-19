@@ -1,6 +1,6 @@
-<h1>Movies InShot</h1>
+<h1 align='center'>Movies In-Shot</h1>
 
-<img align='center' src='https://raw.githubusercontent.com/pranjals149/acevent/dc290bd44058661164ecd25c70216fe629e8da8d/movies-inshot/logo.svg' height=400 width=400 />
+<p align='center'><img src='https://raw.githubusercontent.com/pranjals149/acevent/dc290bd44058661164ecd25c70216fe629e8da8d/movies-inshot/logo.svg' height=400 width=400 /></p>
 
 ### Description
 
