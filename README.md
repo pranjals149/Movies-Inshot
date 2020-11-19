@@ -2,6 +2,8 @@
 
 <p align='center'><img src='https://raw.githubusercontent.com/pranjals149/acevent/dc290bd44058661164ecd25c70216fe629e8da8d/movies-inshot/logo.svg' height=400 width=400 /></p>
 
+<h4>Deployed link - https://movies-inshot.web.app/</h4>
+
 ### Description
 
 This app is made by using React. This is a single page application which shows up all the movies fetched by The Movies Database. When a user clicks on a poster of a movie it fetches the youtube link of the trailer and displays the trailer video in an embedded Youtube component. The Banner at the top randomly changes all the time whenever the page is refreshed.
